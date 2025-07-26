@@ -1,0 +1,16 @@
+# API credentials for Amadeus
+AMADEUS_CLIENT_ID=your_amadeus_client_id_here
+AMADEUS_CLIENT_SECRET=your_amadeus_client_secret_here
+
+# Email credentials for sending notifications
+EMAIL=your_email_here@example.com
+EMAIL_PWD=your_email_password_here
+
+# Twilio API credentials for SMS notifications
+TWILIO_SID=your_twilio_sid_here
+TWILIO_AUTH=your_twilio_auth_token_here
+TWILIO_PHONE=your_twilio_phone_number_here
+TARGET_PHONE=target_phone_number_to_receive_sms_here
+
+# Sheety API endpoint for Google Sheets integration
+SHEETY_ENDPOINT=https://api.sheety.co/your_project_id/your_sheet_name/sheet1
